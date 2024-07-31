@@ -65,12 +65,13 @@ button{
     cursor: pointer;
     margin-top: 30px;
     padding: 8px 30px;
-    border border-radius: 4px;
+    border-radius: 4px;
     font-size: 18px;
     background-color: firebrick;
 }
 .content-img img{
     width:300px;
+    border-radius: 3rem;
 }
 button:hover{
     background-color: aqua;
